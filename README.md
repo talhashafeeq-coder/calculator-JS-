@@ -15,12 +15,20 @@ JavaScript<br>
 ## 🛠️ Installation & Setup
 
 ### Clone the repository: <br>
-https://github.com/talhashafeeq-coder/calculator-JS-.git<br>
+ ```sh
+https://github.com/talhashafeeq-coder/calculator-JS-.git
+  ```
 Navigate to the project directory:<br>
-cd Calculator-JS<br>
+```sh
+cd Calculator-JS
+```
 ### Install dependencies:<br>
-npm install <br>
+```sh
+npm install
+```
 ### Run the project: <br>
+```sh
 npm run dev
+```
 ### 🤝 Contributing
 Feel free to submit pull requests or open issues for improvements!
